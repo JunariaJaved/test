@@ -1,2 +1,2 @@
 # test
-Hi Junaria, welcome
+Good bye junaria.
